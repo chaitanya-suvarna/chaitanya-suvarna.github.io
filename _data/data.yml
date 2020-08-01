@@ -51,15 +51,16 @@ sidebar:
       - item: Reading
         summary: Like reading novels about mystery, mythology, philosophy and history
 
+      - item: Calligraphy
+        summary: A hobby that helps me calm down and collect my thoughts
+
+
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      Experienced developer skilled in Ab Initio, .NET framework, SQL Server, SSIS, and Oracle. Strong business development professional with a Master’s Degree focused in Computer Applications from Sardar Patel Institute of Technology. <br>
+      Never shying away from opportunities in different technical landscapes, I have delivered ETL based solutions, .NET Web application and microservices developed with .NET framework.<br>
+      Always inquisitive about new technology and trying out various pet projects, some of which can be found on my <a href="http://github.com/chaitanya-suvarna" target="_blank">Github</a> page.
 education:
     - degree: Master of Computer Applications
       university: Sardar Patel Institute of Technology, Mumbai University
@@ -84,7 +85,7 @@ education:
           - Bullet point
           - Bullet point
 experiences:
-    - role: Lead Developer
+    - role: Developer
       time: 2015 - Present
       company: Startup Hubs, San Francisco
       details: |
