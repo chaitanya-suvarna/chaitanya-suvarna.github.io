@@ -2,7 +2,7 @@
 
 # Site Settings
 title: Chaitanya Suvarna
-url: 'http://webjeda.com'
+url: ''
 baseurl: '' #change it according to your repository name
 description: My resume created from a Jekyll theme
 # Style will be applied only after restarting the build or serve. Just choose one of the options.
