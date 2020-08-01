@@ -40,7 +40,7 @@ p {
     background: $theme-color;
     position: absolute;
     right: 0;
-    width: 300px;
+    width: 320px;
     height: 100%;
     min-height: 800px;
     color: #fff;
@@ -145,10 +145,15 @@ p {
     .interests-list {
         margin-bottom: 0;
         li {
-            margin-bottom: 10px;
             &:last-child {
                 margin-bottom: 0;
             }
+        }
+        .interests-meta {
+            color: rgba(256, 256, 256, 0.6);
+            font-weight: 500;
+            margin-bottom: 10px;
+            margin-top: 0;
         }
     }
 }
