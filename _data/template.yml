@@ -9,3 +9,46 @@ color:
 font:
   primary: '"Recursive", "Helvetica Neue",Helvetica,Arial,sans-serif'
   secondary: '"Droid Serif", "Helvetica Neue", Helvetica,Arial,sans-serif'
+
+# interests
+interests:
+  - item: Running
+    summary: Sub 1 hour 10k finisher. Currently training for my first half marathon.
+
+  - item: Guitar
+    summary: Was part of my college band, still continue playing as a hobby.
+
+  - item: Tech/Gadgets
+    summary: Fascinated with new technology and gadgets, trying them out with pet projects.
+
+  - item: Reading
+    summary: Like reading novels about mystery, mythology, philosophy and history.
+
+  - item: Calligraphy
+    summary: A hobby that helps me calm down and collect my thoughts.
+
+#Technical Skills
+skills:
+  - name: Ab Initio
+    level: 85%
+
+  - name: .Net Framework
+    level: 70%
+
+  - name: SQL Server
+    level: 65%
+
+  - name: Oracle
+    level: 70%
+
+  - name: Agile/Scrum development tools
+    level: 70%
+
+  - name: Java
+    level: 55%
+
+  - name: Python
+    level: 50%
+
+  - name: Web
+    level: 50%
