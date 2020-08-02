@@ -30,25 +30,51 @@ interests:
 #Technical Skills
 skills:
   - name: Ab Initio
+    details: Graph Development, Sandbox Setup, Multifile components, Web Components
     level: 85%
 
   - name: .Net Framework
+    details: .Net Core, ASP.Net, EntityFramework, Web API, Services, NUnit, SpecFlow
     level: 70%
 
   - name: SQL Server
+    details: SQL Server 2012, SQL Server Integration Services
     level: 65%
 
   - name: Oracle
+    details: DDL, DML, PL/SQL
     level: 70%
 
   - name: Agile/Scrum development tools
+    details: Git, JIRA, Rally
     level: 70%
 
   - name: Java
+    details: Spring Framework, Gradle, JUnit
     level: 55%
 
   - name: Python
+    details: Django framework, Beautiful Soup
     level: 50%
 
-  - name: Web
-    level: 50%
+  - name: Web & Javascript
+    details: HTML5, CSS3, Javascript, Node.js
+    level: 45%
+
+# contact
+contact:
+  - icon: linkedin
+    title: LinkedIn
+    url: https://www.linkedin.com/in/chaitanya-suvarna/
+  - icon: github
+    title: GitHub
+    url: https://github.com/chaitanya-suvarna
+  - icon: twitter
+    title: Twitter
+    url: https://twitter.com/chaitanyadev_
+  - icon: wordpress
+    title: WordPress
+    url: http://chaitanyasuvarna.wordpress.com/
+  - icon: envelope
+    title: E-Mail
+    url: mailto:chaitanya.suvarna.dev@gmail.com

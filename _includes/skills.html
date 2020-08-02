@@ -14,7 +14,7 @@
         {% for skill in site.data.template.skills %}
         <div class="item">
 
-          <h3 class="level-title">{{ skill.name }}</h3>
+          <b class="level-title">{{ skill.name }}</b><span class="text-muted" style="font-size: 12px;"> {{ skill.details }}</span>
 
           <div class="level-bar">
             <div class="level-bar-inner" data-level="{{ skill.level }}">
