@@ -78,3 +78,113 @@ contact:
   - icon: envelope
     title: E-Mail
     url: mailto:chaitanya.suvarna.dev@gmail.com
+
+# Journey
+journey:
+  - header: .Net Developer
+    image: barclays.png
+    subheading: July 2020
+    body: <p class="text-muted">.Net API platform for Barclays Partner Finance<br>
+      - Developing microservices using .Net framework <br>
+      - <b>Technology Stack:</b> .Net Core, EntityFramework, Windows Services, Web API, SQL Server, TFS
+      </p>
+
+  - header: Ab Initio Developer
+    image: barclays.png
+    subheading: June 2018
+    body: <p class="text-muted">ETL projects for Customer Data & Regulatory domain <br>
+      - Ab Initio Developer for multiple projects. <br>
+      - Contributed throughout the application lifecycle for each Sprint<br>
+      - Development, Unit Testing, Change Management, liasing with stake holders until Sprint is Live.<br>
+      - <b>Technology Stack:</b> Ab Initio, Oracle, Teradata, UNIX Shell Scripting, Tivoli
+      </p>
+
+  - header: Research Paper Published
+    image: IEEE.jpg
+    subheading: February 2018
+    body: <p class="text-muted"><b>Publisher:</b> IEEE Xplore<br>
+      <b>Efficient heart disease prediction system using optimization technique</b><br>
+      MCA Final year <a href="https://ieeexplore.ieee.org/document/8282712/" target="_blank">research paper</a>
+      </p>
+
+  - header: Graduate Analyst at Barclays
+    image: barclays.png
+    subheading: July 2017
+    body: <p class="text-muted">Joined as a Graduate Analyst at Barclays,Pune <br>
+      - Primary Developer role for a ASP.Net MVC application <br>
+      - FATCA/CRS Regulatory Report generation project<br>
+      - <b>Technology Stack:</b> ASP.Net, EntityFramework, SSIS, SQL Server, Powershell, AutoSys
+      </p>
+
+  - header: Completed Master of Computer Applications
+    image: SPIT.jpg
+    subheading: July 2017
+    body: <p class="text-muted">Sardar Patel Institute of Technology, Mumbai<br>
+      University of Mumbai <br>
+      Final CGPI &#58; <b>8.21</b>/10 <br>
+      </p>
+
+  - header: Internship at Barclays
+    image: barclays.png
+    subheading: January 2017 - July 2017
+    body: <p class="text-muted">6 months internship at Barclays, Pune <br>
+      - Intern at Legal run the bank team <br>
+      - Developed 2 projects for final year evaluation :<br>
+        1. <b>One-click Health Check </b><br>
+        &nbsp;&nbsp;&nbsp;&nbsp;.Net Console application with Selenium<br>
+        2. <b>One Stop Shop Service Management </b><br>
+        &nbsp;&nbsp;&nbsp;&nbsp;ASP.Net Web Application
+        </p>
+
+  - header: JPMorgan Code For Good
+    image: JP.jpg
+    subheading: July 2016
+    body: <p class="text-muted">Selected for Code For Good hackathon<br>
+      - Team of 6 students from random colleges. <br>
+      - Developed a working prototype for a NGO within <b>24hours.</b> <br>
+      - Our team was chosen as one of the <b>top 5 finalists</b> for our solution.
+      </p>
+
+  - header: Internship at Credit Suisse
+    image: Credit Suisse.png
+    subheading: June 2016 - July 2016
+    body: <p class="text-muted">2 months internship at Credit Suisse, Pune <br>
+      - Intern in automation testing team. <br>
+      - Worked on test case automation using Selenium and Hexawise.<br>
+      </p>
+
+  - header: Master of Computer Applications
+    image: SPIT.jpg
+    subheading: Started on July 2014
+    body: <p class="text-muted">Sardar Patel Institute of Technology, Mumbai <br>
+      Activities and societies :<br>
+      - Chairperson, ACE Committee <br>
+      - Student Member, Entrepreneurship Cell
+      </p>
+
+  - header: B.Sc. Information Technology
+    image: UPG.png
+    subheading: July 2011 - July 2014
+    body: <p class="text-muted">Usha Pravin Gandhi College of Management<br>
+      Mumbai University <br>
+      Final CGPA &#58; <b>6.80</b>/8 <br>
+      Activities and societies :<br>
+      - Mentorship program<br>
+      - Guitarist, College music group
+      </p>
+
+  - header: Higher Secondoary School
+    image: thakur.jpeg
+    subheading: July 2009 - May 2011
+    body: <p class="text-muted"> Thakur College of Science and Commerce<br>
+      Vocation &#58; Computer Science <br>
+      Completed with Grade &#58; <b>I</b><br>
+      Activities and societies :<br>
+      - Guitarist, College music group
+      </p>
+
+  - header: Secondoary School
+    image: school.png
+    subheading: June 2009
+    body: <p class="text-muted"> Holy Cross Convent School <br>
+      Completed with <b>Distinction</b></p>
