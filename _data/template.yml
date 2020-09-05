@@ -35,7 +35,7 @@ skills:
 
   - name: .Net Framework
     details: .Net Core, ASP.Net, EntityFramework, Web API, Services, NUnit, SpecFlow
-    level: 70%
+    level: 80%
 
   - name: SQL Server
     details: SQL Server 2012, SQL Server Integration Services
