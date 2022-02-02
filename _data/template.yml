@@ -81,6 +81,16 @@ contact:
 
 # Journey
 journey:
+  - header: Senior Developer
+    image: barclays.png
+    subheading: June 2021
+    body: <p class="text-muted">Tech Lead for BPF API and microservices<br>
+      - Creating low-level design and scalable,maintainable solutions <br>
+      - Code review and mentoring <br>
+      - Developing microservices and Web APIs using .net and .net core <br>
+      - <b>Technology Stack:</b> .Net Core, EntityFramework, Windows Services, Web API, SQL Server, TFS
+      </p>
+
   - header: .Net Developer
     image: barclays.png
     subheading: July 2020
