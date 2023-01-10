@@ -49,6 +49,10 @@ skills:
     details: Git, JIRA, Rally
     level: 70%
 
+  - name: AWS
+    details: DynamoDB, SQS, S3, Lambda, ECS, CloudWatch
+    level: 65%
+
   - name: Java
     details: Spring Framework, Gradle, JUnit
     level: 55%
@@ -57,9 +61,6 @@ skills:
     details: Django framework, Beautiful Soup
     level: 50%
 
-  - name: Web & Javascript
-    details: HTML5, CSS3, Javascript, Node.js
-    level: 45%
 
 # contact
 contact:
@@ -81,6 +82,16 @@ contact:
 
 # Journey
 journey:
+  - header: SDE II
+    image: amazon.jpeg
+    subheading: July 2022
+    body: <p class="text-muted">Senior Developer at Zappas Catalog team<br>
+      - Coordinate with Product Manager and Business Teams to create solutions and High Level Designs <br>
+      - Code review and mentoring <br>
+      - Developing services using Java and AWS components <br>
+      - <b>Technology Stack:</b> Java, AWS Components - DynamoDB, Lambda, CloudWatch metrics, ECS etc
+      </p>
+
   - header: Senior Developer
     image: barclays.png
     subheading: June 2021
